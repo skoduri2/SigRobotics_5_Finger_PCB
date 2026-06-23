@@ -1,0 +1,17 @@
+# KiCad local/user-specific files
+*.kicad_prl
+fp-info-cache
+
+# KiCad backups
+*-backups/
+*.bak
+*.bck
+*.kicad_sch-bak
+*.kicad_pcb-bak
+
+# Generated output files
+gerbers/
+plots/
+fab/
+bom/
+.DS_Store
