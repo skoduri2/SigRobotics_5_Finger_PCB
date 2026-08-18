@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "OKL2-T_20-W12P2-C") (type "KiCad") (uri "${KIPRJMOD}/OKL2-T_20-W12P2-C.kicad_sym") (options "") (descr ""))
+)
